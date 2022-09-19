@@ -8,3 +8,4 @@ In the folder GLA-data there is a sequence of 18 algorithms used to parse and me
 
 The folder GLA-Time_series contains the notebooks developed to create the chart pre-analysis GLA_Graphs.ipynb), and the time-series random forest model (GLA_prediction 2011-21.ipynb). There is also a printed version of the error map, with improved resolution, as the printed version of the dissertation has limited visibility for this chart.
 
+The files on the main folder will serve as curiosity. The files refer to attempts in using different machine learning algorithms for the same problem (Neural Networks, Support Vector Regression, K-Neares Neighbor. Because I am using a desktop computer, these attempts failed for lack of computing power. There is also a Random Forest attempt with PCA, with significant reduction in accuracy.
