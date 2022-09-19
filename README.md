@@ -6,4 +6,5 @@ These notebooks use the merged Land Registry Prices Paid with EPC Certificates a
 
 In the folder GLA-data there is a sequence of 18 algorithms used to parse and merge the EPC, Prices Paid, GLA, Census and Economic data. Use the sequence in file names, not the order set by github to read through the files.
 
+The folder GLA-Time_series contains the notebooks developed to create the chart pre-analysis GLA_Graphs.ipynb), and the time-series random forest model (GLA_prediction 2011-21.ipynb). There is also a printed version of the error map, with improved resolution, as the printed version of the dissertation has limited visibility for this chart.
 
